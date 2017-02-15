@@ -8,4 +8,5 @@ router.get('/', function(req, res, next) {
     res.render('test',{'title':'smartService Test!'});
 });
 
+
 module.exports = router;

@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.xiaoka.linkdemo",
+      "sha256_cert_fingerprints": ["6F:07:E0:BA:A7:B3:AA:EB:F0:E6:DD:63:6F:FE:42:81:31:43:28:F9:9F:32:4F:C6:F8:63:28:4B:14:41:96:E2"]
+    }
+  }
+]
