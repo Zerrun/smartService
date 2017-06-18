@@ -56,7 +56,7 @@ app.get('/apple-app-site-association', function(req, res) {
         "applinks": {
         "apps": [],
         "details": {
-                    "J3N39K69XG.com.chediandian.customer": {
+                    "9BNBMDG3PB.com.alipay.iphoneclientErrun": {
                         "paths":[ "*" ]
                         }
                     }
