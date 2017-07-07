@@ -61,7 +61,7 @@ app.get('/apple-app-site-association', function(req, res) {
                         },
                     "LQ38NAVXP6.com.alipay.wallet.test": {
                         "paths":[ "*" ]
-                        },
+                        }
                     ]
             }
         });
