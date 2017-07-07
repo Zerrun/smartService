@@ -55,13 +55,14 @@ app.get('/apple-app-site-association', function(req, res) {
     res.send({
         "applinks": {
         "apps": [],
-        "details": [
-                    "9BNBMDG3PB.com.alipay.iphoneclientErrun": {
-                        "paths":[ "*" ]
-                        },
-                    "LQ38NAVXP6.com.alipay.wallet.test": {
-                        "paths":[ "*" ]
-                        }
+        "details": [{
+                     "appID": "9BNBMDG3PB.com.alipay.iphoneclientErrun",
+                     "paths":[ "*" ]
+                    },
+                    {
+                     "appID": "LQ38NAVXP6.com.alipay.wallet.test",
+                     "paths":[ "*" ]
+                    },
                     ]
             }
         });
