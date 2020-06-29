@@ -56,6 +56,10 @@ app.get('/apple-app-site-association', function(req, res) {
         "applinks": {
         "apps": [],
         "details": [{
+                     "appID": "9BNBMDG3PB.com.fruta9BNBMDG3PB",
+                     "paths":[ "*" ]
+                    },
+                    {
                      "appID": "9BNBMDG3PB.com.alipay.iphoneclientErrun",
                      "paths":[ "*" ]
                     },
